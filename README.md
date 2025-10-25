@@ -104,7 +104,7 @@ You have the following rights regarding your data:
 
 ### Delete Your Data
 - Uninstall the App to remove all locally stored data
-- Clear app data through device settings (Settings → Apps → [App Name] → Storage → Clear Data)
+- Clear app data through device settings (Settings → Apps → Bilimdon → Storage → Clear Data)
 
 ### Opt-Out of Data Collection
 - Since we don't collect or transmit personal data to servers, there is no data collection to opt out of
