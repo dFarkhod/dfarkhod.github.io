@@ -11,7 +11,7 @@ Please read this privacy policy carefully. If you do not agree with the terms of
 ## Contact Information
 
 **Developer:** Farkhod
-**Email:** dfarkhod@gmail.com
+**Email:** virtualdars@gmail.com
 **Website:** https://www.virtualdars.com
 
 ## Information We Collect
@@ -169,8 +169,6 @@ If you are located in the EEA, you have the following rights:
 - **Right to Object:** Object to data processing
 - **Right to Withdraw Consent:** Withdraw consent at any time
 
-To exercise these rights, contact us at [your.email@example.com]
-
 ## California Privacy Rights (CCPA)
 
 If you are a California resident, you have the right to:
@@ -183,15 +181,6 @@ If you are a California resident, you have the right to:
 - Non-discrimination for exercising your rights
 
 **Note:** We do not sell personal information.
-
-## Contact Us
-
-If you have questions or concerns about this Privacy Policy, please contact us:
-
-**Email:** dfarkhod@gmail.com
-**Developer:** Farkhod
-
-We will respond to your inquiry within 30 days.
 
 ---
 
